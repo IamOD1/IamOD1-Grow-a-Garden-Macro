@@ -1043,7 +1043,7 @@ Gui, Add, GroupBox, x23 y50 w475 h340 cD3D3D3, Credits
     Gui, Font, s9 cWhite Bold, Segoe UI
     Gui, Add, Text, x40 y200 w200 h20, Extra Resources:
     Gui, Font, s8 cD3D3D3 Underline, Segoe UI
-    Gui, Add, Link, x40 y224 w300 h16, Check the <a href="">Github</a> for the latest macro updates!
+    Gui, Add, Link, x40 y224 w300 h16, Check the <a href="https://github.com/IamOD1/IamOD1-Grow-a-Garden-Macro">Github</a> for the latest macro updates!
     
     Gui, Show, w520 h460, Grow a Garden Macro
 Return
