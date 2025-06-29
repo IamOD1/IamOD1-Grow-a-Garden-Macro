@@ -1,10 +1,6 @@
 ## Odi Grow A Garden Macro
 A macro for the Roblox game "Grow a Garden"
 
-## Requirements:
-- Download [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki), install it and add it to your PATH variables.
-See: https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)
-
 ## Installation
  - First of all, you need to download [AutoHotKey v1.1](https://www.autohotkey.com/) (Not 2.0), and run the installer
  - After downloading, extract the ZIP file to your desired directory
@@ -27,3 +23,4 @@ Odi Grow A Garden Macro has a couple of different features it is capable of. The
 
 ##
 -Please report issues in issues tab not in my discord
+-for older versions of macro download and setup tesseract
