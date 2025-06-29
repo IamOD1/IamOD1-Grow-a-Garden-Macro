@@ -24,3 +24,4 @@ Odi Grow A Garden Macro has a couple of different features it is capable of. The
 ##
 -Please report issues in issues tab not in my discord
 -for older versions of macro download and setup tesseract
+-if your macro/gui navigation starts at hotbar reinstall roblox
