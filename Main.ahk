@@ -1,5 +1,3 @@
-; Virage GAG Macro [PREMIUM/PAID VERSION]
-
 #SingleInstance, Force
 #NoEnv
 SetWorkingDir %A_ScriptDir%
