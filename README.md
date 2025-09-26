@@ -6,7 +6,7 @@ First of all, you need to download [AutoHotKey v1.1] (https://www.autohotkey.com
 After downloading, extract the ZIP file to your desired directory
 
 Before starting the macro:
-
+- give me the star on github page (pls)
 - ensure you extracted the macro file
 - don't go full screen, be in windowed fullscreen
 - Set your roblox camera mode to the following --> default(classic)
